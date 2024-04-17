@@ -1,9 +1,0 @@
-wandb
-ipykernel
-jupyter
-instructor
-openai>=1.1.0
-pydantic
-graphviz
-spacy
-nltk
